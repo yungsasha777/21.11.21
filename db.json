@@ -1,5 +1,10 @@
 {
    "users": [
-      
+      {
+         "id": 1,
+         "username": "asmadeuss",
+         "photo_url": "https://avatars.githubusercontent.com/u/93472764?v=4",
+         "balance": 9053240532
+      }
    ]
 }
