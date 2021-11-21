@@ -5,6 +5,13 @@
          "username": "asmadeuss",
          "photo_url": "https://avatars.githubusercontent.com/u/93472764?v=4",
          "balance": 9053240532
+      },
+      {
+         "id": 2,
+         "username": "yungsasha777",
+         "photo_url": "https://avatars.githubusercontent.com/u/93862812?v=4",
+         "balance": 999999999,
+         "asd": "jhgee"
       }
    ]
 }
