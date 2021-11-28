@@ -44,6 +44,17 @@
          ],
          "price": "9000 USD",
          "seller": "asmadeuss"
+      },
+      {
+         "name": "new Black nigger",
+         "description" : [
+            { 
+               "type": "black",
+               "style": "new",
+               "included": "pink dress, white T-shirt,",
+               "price": "300 backs"
+            }
+         ]
       }
    ]
 }
