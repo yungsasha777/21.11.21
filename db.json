@@ -18,5 +18,21 @@
          "photo_url": "https://avatars.githubusercontent.com/u/93472797?v=4",
          "balance": 231233457
       }
+   ],
+
+   "products": [
+      {
+         "name": "1997 Toyota Corolla",
+         "description": [
+            {
+               "torque/rpm": "105 @ 4400 RPM",
+               "displacement": "1.6L",
+               "engine type": "gas I4",
+               "horsepower/rpm": "100 @ 5600 RPM",
+               "condition": "used"
+            }
+         ],
+         "price": "1300 USD"
+      }
    ]
 }
