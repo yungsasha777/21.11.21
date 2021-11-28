@@ -34,6 +34,16 @@
          ],
          "price": "1300 USD",
          "seller": "yungsasha777"
+      },
+      {
+         "name": "stol",
+         "description": [
+            {
+               "stol": "eto stol"
+            }
+         ],
+         "price": "9000usd",
+         "seller": "asmadeuss"
       }
    ]
 }
