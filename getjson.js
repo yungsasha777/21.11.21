@@ -9,5 +9,6 @@ xhttp.open("GET", "https://raw.githubusercontent.com/yungsasha777/21.11.21/main/
 xhttp.send();
 function fetchJson(arg){
     result = arg;
+    console.log(result);
 };
-console.log(result);
+
